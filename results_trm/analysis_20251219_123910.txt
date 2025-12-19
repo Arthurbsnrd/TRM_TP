@@ -1,0 +1,17 @@
+==================================================
+📊 ANALYSE MULTIMODALE
+==================================================
+
+🎯 CNN (vision seule) - Top 3 :
+👑 8. Bag : 17.5%
+
+✨ Créativité (poids texte) : 1.00
+📝 Contexte texte : "élégant"
+
+🎨 Décision finale (fusion vision + texte) :
+👑 3. Dress
+
+
+🔄 CHANGEMENT DÉTECTÉ ! Le texte a modifié la décision.
+   CNN seul → Bag
+   Multimodal → Dress
